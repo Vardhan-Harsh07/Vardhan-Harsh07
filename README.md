@@ -6,16 +6,21 @@
 
 ### About Me:
 - 🌱 Eager Learner: Passionately exploring Full-Stack Development (MERN) and continuously expanding my knowledge in AI and machine learning.
-- 🔍 Currently Exploring: Delving into Back End development with a strong focus on Python, Data Science, and C++ for competitive programming.📫 How to reach me [vardhanharsh806@gmail.com](mailto:your-email@example.com)
-- 📫 Reach Out: I'm always open to connect and collaborate! Feel free to drop me a message at [vardhanharsh806@gmail.com](mailto:your-email@example.com)
+- 🔍 Currently Exploring: Delving into Back End development with a strong focus on Python, Data Science, and C++ for competitive programming.
+- 📫 Reach Out: I'm always open to connect and collaborate! Feel free to drop me a message at [vardhanharsh806@gmail.com](mailto:vardhanharsh806@gmail.com)
 - 💡 Fun Fact: I love exploring AI and machine learning in my free time!
 
 ---
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/real_vardhan/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/harsh-vardhan-singh-chauhan-7a7b7c)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-singh-chauhan-7a7b7c/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anthemskitzzy/)
+
+---
+
+### Portfolio:
+🔨 My portfolio is currently under construction. Check back soon at [https://building-portfolio-ten.vercel.app/] for updates!
 
 ---
 
@@ -51,3 +56,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+## Thank You for Visiting!
+Feel free to explore my work and reach out if you have any questions or opportunities for collaboration. Stay tuned for more updates as I continue to build and grow!
