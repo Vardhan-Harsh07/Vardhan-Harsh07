@@ -61,3 +61,5 @@
 
 ## Thank You for Visiting!
 Feel free to explore my work and reach out if you have any questions or opportunities for collaboration. Stay tuned for more updates as I continue to build and grow!
+
+[![](https://visitcount.itsvg.in/api?id=Vardhan-Harsh07&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
