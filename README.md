@@ -20,7 +20,7 @@
 ---
 
 ### Portfolio:
-🔨 My portfolio is currently under construction. Check back soon at [https://vardhanharsh806.netlify.app/] for updates!
+🔨 My portfolio is [https://vardhanharsh806.netlify.app/] !
 
 ---
 
