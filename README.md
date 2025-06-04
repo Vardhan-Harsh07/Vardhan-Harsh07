@@ -1,16 +1,18 @@
 # Hi there 👋 I'm Harsh Vardhan Singh Chauhan
 
-### Junior with a Passion for Technology
+### 👋 Junior Developer with a Drive for Innovation
 
 ---
 
-### About Me:
-- 🌱 Eager Learner: Passionately exploring Full-Stack Development (MERN) and continuously expanding my knowledge in AI and machine learning.
-- 🔍 Currently Exploring: Delving into Back End development with a strong focus on Python, Data Science, and C++ for competitive programming.
-- 📫 Reach Out: I'm always open to connect and collaborate! Feel free to drop me a message at [vardhanharsh806@gmail.com](mailto:vardhanharsh806@gmail.com)
-- 💡 Fun Fact: I love exploring AI and machine learning in my free time!
+### 🧠 About Me:
+- 🌱 **Always Learning:** Actively growing my skills in Full-Stack Development (MERN), with a strong interest in AI, machine learning, and data science.
+- 🛠️ **What I'm Working On:** Diving deeper into back-end development using Python, while also sharpening my competitive programming skills in C++.
+- 📬 **Let’s Connect:** I'm open to collaborations, opportunities, or just a good tech chat!  
+  Reach me at [vardhanharsh806@gmail.com](mailto:vardhanharsh806@gmail.com)
+- 🎮 **Outside the Code:** Big fan of Formula 1 and competitive games like Valorant and CSGO — always up for some strategy and adrenaline!
 
 ---
+
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/real_vardhan/)
