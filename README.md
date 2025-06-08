@@ -1,15 +1,16 @@
 # Hi there 👋 I'm Harsh Vardhan Singh Chauhan
 
-### 👋 Junior Developer with a Drive for Innovation
+### 👋 Aspiring Data Scientist with a Passion for Insights
 
 ---
 
 ### 🧠 About Me:
-- 🌱 **Always Learning:** Actively growing my skills in Full-Stack Development (MERN), with a strong interest in AI, machine learning, and data science.
-- 🛠️ **What I'm Working On:** Diving deeper into back-end development using Python, while also sharpening my competitive programming skills in C++.
-- 📬 **Let’s Connect:** I'm open to collaborations, opportunities, or just a good tech chat!  
+- 📊 **Data-Driven Thinker:** Former full-stack enthusiast now fully focused on data science, machine learning, and AI.
+- 🧪 **What I'm Working On:** Exploring real-world applications of data science — from predictive modeling to deep learning, and refining my skills in Python and SQL.
+- 📬 **Let’s Connect:** Open to research collaborations, internships, and exciting data challenges.  
   Reach me at [vardhanharsh806@gmail.com](mailto:vardhanharsh806@gmail.com)
-- 🎮 **Outside the Code:** Big fan of Formula 1 and competitive games like Valorant and CSGO — always up for some strategy and adrenaline!
+- ⚙️ **Past Journey:** Built a solid foundation in full-stack (MERN), which helps me bring engineering rigor to my data workflows.
+- 🏁 **Beyond Data:** Passionate about Formula 1 and competitive gaming — love tackling complex problems with strategy and precision!
 
 ---
 
